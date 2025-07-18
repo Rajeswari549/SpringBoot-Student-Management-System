@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SpringCrudProject
+Bundle-SymbolicName: SpringCrudProject
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: SpringCrudProject
+Export-Package: com.sample,
+ com.sample.entity
